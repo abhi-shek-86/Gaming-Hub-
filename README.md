@@ -68,7 +68,7 @@ Hey, it's **Abhishek Vasamsetti**, your 4th-year BTech friend! Welcome to **Game
 
 ## 🛠️ Getting Started
 
-- **Download the source code**: [GameHub Project](https://github.com/abhi-shek-86/GameHub-Python)
+- **Download the source code**: [GameHub Project](https://github.com/abhi-shek-86/Gaming-Hub-.git) 
 - **Run the script and have fun!** 🎉
 
 ---
