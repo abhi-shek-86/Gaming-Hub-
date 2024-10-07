@@ -21,6 +21,7 @@ Hey, it's **Abhishek Vasamsetti**, your 4th-year BTech friend! Welcome to **Game
 ## 🎮 How to Play
 
 ### ✊🖐✌️ Rock Paper Scissors
+
 - **Description**: Classic hand game with a simple interface.
 - **How to Play**: Choose rock, paper, or scissors and compete against the computer.
 
