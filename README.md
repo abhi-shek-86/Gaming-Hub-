@@ -75,5 +75,5 @@ Hey, it's **Abhishek Vasamsetti**, your 4th-year BTech friend! Welcome to **Game
 **Thank you! 🙏**
 
 Developed by: **Abhishek Vasamsetti**  
-GitHub: [abhi-shek-86](https://github.com/abhi-shek-86)  
+GitHub: [abhi-shek-86](https://github.com/abhi-shek-86/Gaming-Hub-/tree/master)  
 📧 Email: vasamsettiabhi13@gmail.com
